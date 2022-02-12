@@ -8,6 +8,8 @@ danced.co.kr back up files until 220211
 
 Lyrics.xlsx 파일 설명:
 
+엑셀 파일이며, 엑셀 프로그램이 있어야 열 수 있다.
+
 백업 자료는 'Real' 시트를 참고한다.
 
 백업 자료의 수집 기간: ~220211까지이다.
