@@ -16,6 +16,16 @@ Lyrics.xlsx 파일 설명:
 
 이 파일의 '홈' 시트의 설명은 무시 바람.
 
+Lyrics.xlsx의 'Real' 시트에는 id, title, content, realid가 있으며,
+
+id는 열의 고유값을 표시하기 위한 값이고 열과는 상관이 없는 값이며,
+
+title은 곡 제목,
+
+content는 번역된 가사,
+
+realid는 url을 나타낸다.
+
 
 
 
